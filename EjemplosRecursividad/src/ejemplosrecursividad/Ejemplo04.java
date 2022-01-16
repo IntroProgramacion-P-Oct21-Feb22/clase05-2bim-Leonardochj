@@ -1,7 +1,4 @@
-/*
- * Factorial sin recursividad
- * 5! = 5 * 4 * 3 * 2 * 1
- */
+
 package ejemplosrecursividad;
 
 public class Ejemplo04 {
